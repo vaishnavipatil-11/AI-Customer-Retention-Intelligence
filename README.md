@@ -129,7 +129,4 @@ Configure the LLM integration with environment variable API key
 │   └── emails.csv
 │
 ├── powerbi/
-│   └── dashboard.pbix
-│
-└── sample_data/
-    └── ravenstack_engagement_sample.csv</pre>
+    └── SaaS_Business_Intelligence.pbix</pre>

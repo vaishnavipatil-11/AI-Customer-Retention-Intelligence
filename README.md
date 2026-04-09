@@ -125,8 +125,8 @@ Configure the LLM integration with environment variable API key
 ├── sql/
 │   └── transformations.sql
 │
-├── email_generation/
-│   └── llm_email_generator.py
+├── action_trigger/
+│   └── emails.csv
 │
 ├── powerbi/
 │   └── dashboard.pbix
